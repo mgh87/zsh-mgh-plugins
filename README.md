@@ -13,19 +13,19 @@ package manager:
 ### ZPlug
 
 ```bash
-zplug "mgh87/mgh-plugins"
+zplug "mgh87/zsh-mgh-plugins"
 ```
 
 ### Antigen
 
 ```bash
-antigen bundle "mgh87/mgh-plugins"
+antigen bundle "mgh87/zsh-mgh-plugins"
 ```
 
 ### Zgen
 
 ```bash
-zgen load "mgh87/mgh-plugins"
+zgen load "mgh87/zsh-mgh-plugins"
 ```
 
 ### oh-my-zsh
