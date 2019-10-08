@@ -1,5 +1,7 @@
 # This is the collection of my personal zsh plugins to ease my life
 
+Currently the plugin consinsts of two functions to remove local git brances without remote.
+
 ## If you find something thats worth its own repository to use it just contact me
 
 __Insert contact information__
