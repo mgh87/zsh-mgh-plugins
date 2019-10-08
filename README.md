@@ -33,15 +33,15 @@ zgen load "mgh87/zsh-mgh-plugins"
 ### oh-my-zsh
 
 Copy this repository to ``$ZSH_CUSTOM/custom/plugins``, where ``$ZSH_CUSTOM``
-is the directory with custom plugins of oh-my-zsh `(read more) <https://github.com/robbyrussell/oh-my-zsh/wiki/Customization/>`
+is the directory with custom plugins of oh-my-zsh [read more](https://github.com/robbyrussell/oh-my-zsh/wiki/Customization/)
 
 ```bash
-git clone https://github.com/mgh87/mgh-plugins.git $ZSH_CUSTOM/plugins/mgh-plugins
+git clone https://github.com/mgh87/mgh-plugins.git $ZSH_CUSTOM/plugins/mgh
 ```
 
 Then add this line to your ``.zshrc``. Make sure it is **before** the line ``source $ZSH/oh-my-zsh.sh``.
 
 ```bash
-plugins=(mgh-plugins $plugins)
+plugins=(mgh $plugins)
 ```
 
